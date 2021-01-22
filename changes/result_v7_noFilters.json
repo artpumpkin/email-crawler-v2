@@ -1,0 +1,983 @@
+[
+  {
+    "querie": "jumia",
+    "urls": [
+      "https://www.jumia.ma/",
+      "https://www.facebook.com/jumia.ma/"
+    ],
+    "metas": [
+      {
+        "url": "https://www.jumia.ma/",
+        "keywords": "",
+        "description": "Boutique N°1 d'achat et vente en ligne au Maroc ✔ TVs, smartphones, électroménager, mode, jouets, sport, jeux vidéos, déco et bien plus ! ✔ Toutes les marques : Huawei, Samsung, LG, Apple, Nike... ✈ Livraison rapide partout au Maroc : Casablanca, Rabat, Tanger... ✔ Paiement à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "Jumia Food, Jumiafood, livraison domicile, commander repas, commander pizza, commander sushi, livraison Maroc, commander repas en ligne",
+        "description": "Faites-vous livrer vos plats et produits Supermarché en provenance des meilleurs restaurants et boutiques près de chez vous: Carrefour Market, Sushi, Pizza... ✔ Livraison à domicile à Casablanca, Tanger, Rabat, Marrakech, Agadir... ✔ Téléchargez l'application Jumia Food Maroc ou appelez le 05 22 04 18 18",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/",
+        "keywords": "Jumia Food, Jumiafood, livraison domicile, commander repas, commander pizza, commander sushi, livraison Maroc, commander repas en ligne",
+        "description": "Faites-vous livrer vos plats et produits Supermarché en provenance des meilleurs restaurants et boutiques près de chez vous: Carrefour Market, Sushi, Pizza... ✔ Livraison à domicile à Casablanca, Tanger, Rabat, Marrakech, Agadir... ✔ Téléchargez l'application Jumia Food Maroc ou appelez le 05 22 04 18 18",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/prime",
+        "keywords": "foodpanda, food",
+        "description": "The best vendors ever are only in one website.",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne vos plats et boissons préférés à l'un des 387 meilleurs restaurants de  à proximité de chez vous ✔ Commandez sur le 05 22 04 19 19 ✔ Livraison à domicile à  ✔ Restaurants proches de moi  ✔ Payez à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/contents/contact.htm",
+        "keywords": "foodpanda, food",
+        "description": "Pour passer commande sur Jumia Food, contactez-nous sur 05 22 04 19 19. Trouvez aussi les contacts Jumia Food du service client ou pour intégrer notre réseau de restaurants.",
+        "emails": [
+          "service.food@jumia.ma"
+        ]
+      },
+      {
+        "url": "https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": [
+          "cs.pay.ma@jumia.com"
+        ]
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar&lang=fr-fr&t=1610818241039",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/beaute-hygiene-sante/",
+        "keywords": "",
+        "description": "اعتنوا بنفسكم مع منتجات الجمال، النظافة و الصحة على موقع جوميا المغرب | إليكم كل ما تحتاجون من مكياج، عطور، العناية بالجسم و الوجه لأفضل العلامات التجارية مثل ديور، لاروش بوزيه، نيفيا و ميكسا \n",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/fashion-mode/",
+        "keywords": "",
+        "description": "اشتري الآن ازياء في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من ازياء بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/mlp-accessoires-mode/",
+        "keywords": "",
+        "description": "اشتري منتجك Accessoires Mode عبر الإنترنت بأفضل سعر على جوميا ✓الدفع نقدا عند التسليم أو بالبطاقة ✓التسليم في كل مكان في المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/beaute-hygiene-sante/",
+        "keywords": "",
+        "description": "Découvrez nos produits cosmétiques et soins sur Jumia Maroc ✔ Parapharmacie, makeup, Parfum et beauté au meilleur prix ✔Payez à la livraison ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fashion-mode/",
+        "keywords": "",
+        "description": "Commandez les vêtements, chaussures et Accessoires pour homme, femme et enfant à prix pas cher sur Jumia | Trouvez le meilleur de la mode pour hommes et femmes des meilleures marques comme Adidas, Jennyfer, Defacto au meilleur prix au Maroc | Livraison partout au Maroc",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/maison-cuisine-jardin/",
+        "keywords": "",
+        "description": "Envie d'une cuisine moderne, d'un salon marocain ou une déco de maison chic ? Découvrez notre catalogue de meubles, linge de lit et décorations à prix bas ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/telephone-tablette/",
+        "keywords": "",
+        "description": "Offrez-vous un smartphone ou tablette pas cher sur Jumia Maroc | Tablette Samsung, smartphone Huawei, iPhone, Lumia, Infinix, Sony Xperia ou Accent au meilleur prix",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/market-place/",
+        "keywords": "Vendre en ligne ",
+        "description": "Créez votre boutique en ligne d'e-commerce grâce à Jumia et gagnez de l'argent. Découvrez comment vendre sur internet au Maroc, Jumia s'occupe du drop shipping ! ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/sp-market-place/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-market-place/",
+        "keywords": "Vendre en ligne ",
+        "description": "Créez votre boutique en ligne d'e-commerce grâce à Jumia et gagnez de l'argent. Découvrez comment vendre sur internet au Maroc, Jumia s'occupe du drop shipping ! ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/maison-cuisine-jardin/",
+        "keywords": "",
+        "description": "احصلوا على الأثاث والمفروشات والأواني والأجهزة المنزلية عند جوميا ماروك★★★اشتروا Tefal أو moulinex أو mobilia بأفضل الأسعار★★★الدفع عند التسليم \n",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/telephone-tablette/",
+        "keywords": "",
+        "description": "اشتري الآن موبايلات وتابلت في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من موبايلات وتابلت بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/mlp-electromenager/",
+        "keywords": "",
+        "description": "اشتري منتجك Électroménager عبر الإنترنت بأفضل سعر على جوميا ✓الدفع نقدا عند التسليم أو بالبطاقة ✓التسليم في كل مكان في المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-market-place/",
+        "keywords": "Vendre en ligne ",
+        "description": "Créez votre boutique en ligne d'e-commerce grâce à Jumia et gagnez de l'argent. Découvrez comment vendre sur internet au Maroc, Jumia s'occupe du drop shipping ! ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ordinateurs-accessoires-informatique/",
+        "keywords": "",
+        "description": "Achetez un pc portable ou imprimante sur Jumia Maroc | Pc Hp, Dell, Lenovo, Macbook ou Asus au meilleur prix ✔Payez à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/epicerie/",
+        "keywords": "",
+        "description": "Préparez vos listes de course en ligne et Jumia se chargera de vous livrer partout où vous voulez. Découvrez une liste infinie de produits de supermarché & épicerie au même prix que les grandes surfaces.",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/sports-loisirs/",
+        "keywords": "",
+        "description": "Achetez en ligne votre article Sports & Loisirs pas cher sur Jumia.ma ✔ Meilleur prix au Maroc ✔ Paiement à la livraison ✈ Commandez maintenant !",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/electronique/",
+        "keywords": "",
+        "description": "Achetez en ligne votre article TV & Electronique pas cher sur Jumia.ma ✔ Meilleur prix au Maroc ✔ Paiement à la livraison ✈ Commandez maintenant !",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/mlp-electromenager/",
+        "keywords": "",
+        "description": "Achetez en ligne votre Électroménager au meilleur prix sur Jumia.ma ✓ Paiement à la livraison ou par carte ✓ Livraison partout au Maroc",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/mlp-electromenager/",
+        "keywords": "",
+        "description": "اشتري منتجك Électroménager عبر الإنترنت بأفضل سعر على جوميا ✓الدفع نقدا عند التسليم أو بالبطاقة ✓التسليم في كل مكان في المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/soin-de-sante/",
+        "keywords": "",
+        "description": "اشتري الآن العناية الصحية في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من العناية الصحية بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/premiers-secours-masques/",
+        "keywords": "",
+        "description": "اشتري الآن أقنعة في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من أقنعة بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/vitamines-complements-alimentaires/",
+        "keywords": "",
+        "description": "اشتري الآن المكملات الغذائية والفيتامينات في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من المكملات الغذائية والفيتامينات بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ordinateurs-accessoires-informatique/",
+        "keywords": "",
+        "description": "تمتعوا بمجموعة من أجهزة الكمبيوتر المحمولة ومعدات الحاسوب على جوميا ماروك★★★ اشتروا hp laserjet ،Lenovo ،Asus Sony Vaio بأفضل الأسعار★★★ الضمان سنة 1 ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/market-place/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/ordinateurs-accessoires-informatique/",
+        "keywords": "",
+        "description": "Achetez un pc portable ou imprimante sur Jumia Maroc | Pc Hp, Dell, Lenovo, Macbook ou Asus au meilleur prix ✔Payez à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/nutrition/",
+        "keywords": "",
+        "description": "Achetez les protéines, acides aminés, mass gainer & protein bar sur Jumia Maroc | ISO 100, Serious Mass, BCAA ou Whey Protein au meilleur prix",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/maquillage-luxe/",
+        "keywords": "",
+        "description": "Retrouvez votre maquillage yeux, visage et lèvres sur Jumia Maroc ✔ Pinceaux, Mascaras, Eyeliners, Rouges à lèvres, Coffrets ou palettes de maquillage Kiko, Revolution ou Mac au meilleur prix ✔ Paiement à la livraison ",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "Jumia Food, Jumiafood, livraison domicile, commander repas, commander pizza, commander sushi, livraison Maroc, commander repas en ligne",
+        "description": "Faites-vous livrer vos plats et produits Supermarché en provenance des meilleurs restaurants et boutiques près de chez vous: Carrefour Market, Sushi, Pizza... ✔ Livraison à domicile à Casablanca, Tanger, Rabat, Marrakech, Agadir... ✔ Téléchargez l'application Jumia Food Maroc ou appelez le 05 22 04 18 18",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/login",
+        "keywords": "foodpanda, food",
+        "description": "Se connecter",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/customer/register",
+        "keywords": "foodpanda, food",
+        "description": "Se connecter",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/v2.10/dialog/oauth?client_id=1540483006261021&state=l2xvz2lu&response_type=code&sdk=php-sdk-5.6.3&redirect_uri=https%3a%2f%2ffood.jumia.ma%2ffacebook-login-callback&scope=email%2cpublic_profile",
+        "keywords": "",
+        "description": "Log in to Facebook to start sharing and connecting with your friends, family and people you know.",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/forgot-your-password",
+        "keywords": "foodpanda, food",
+        "description": "The best vendors ever are only in one website.",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne auprès de 315 restaurants près de chez vous à Casablanca ✔ Menu, livraison à domicile, au bureau ✔ Sushis, pizza, & bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/contents/terms-and-conditions.htm",
+        "keywords": "foodpanda, food",
+        "description": "Découvrez en détail nos Conditions Générales de Vente pour obtenir le meilleur de nos services. Chez Jumia Food nous aimons vous satisfaire !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/rabat",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne chez 77 restaurants de Rabat ✔ Menu, livraison à domicile, au bureau avec Jumia Food ✔ Sushis, pizza, burgers et bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/tanger",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne chez 13 restaurants de Tanger ✔ Menu, livraison à domicile, au bureau avec Jumia Food ✔ Sushis, pizza, burgers et bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/marrakech",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne chez 39 restaurants de Marrakech ✔ Menu, livraison à domicile, au bureau avec jumia food ✔ Sushis, pizza et bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca/area/bourgogne",
+        "keywords": "foodpanda, food",
+        "description": "208 restaurants à Bourgogne livrés chez vous ✔ Commande en ligne & livraison à domicile à Casablanca ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/contents/privacy.htm",
+        "keywords": "foodpanda, food",
+        "description": "En savoir plus sur la façon dont Jumia Food accompagne ses clients et ses partenaires. Sécurité, Service Client…",
+        "emails": []
+      },
+      {
+        "url": "http://www.allaboutcookies.org/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://tools.google.com/dlpage/gaoptout",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca/area/gauthier",
+        "keywords": "foodpanda, food",
+        "description": "210 restaurants à Gauthier livrés chez vous ✔ Commande en ligne & livraison à domicile à Casablanca ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/rabat/area/riad-haut",
+        "keywords": "foodpanda, food",
+        "description": "53 restaurants vous livrent à Hay Riad Haut  ✔ Commande de menus et repas en ligne & livraison à domicile à Rabat ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurant/ck3jb?source=onsite&medium=homepage&campaign=carrefourhp",
+        "keywords": "foodpanda, food",
+        "description": "Page Not Found! (Error 404)",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar&lang=fr-fr&t=1610818301442",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://app.adjust.com/r9lmxco_p98ne7n?deep_link=jumiaoneapp://&campaign=jumia_mall_venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay au Maroc !\n\n★Rechargez, Payez & Commandez en toute simplicité avec JumiaPay Maroc\nTéléchargez l’application JumiaPay et payez vos factures en ligne simplement et rapidement.\n\n★Profitez de cashback sur vos dépenses\nGrâce au cashback, vous allez faire des économies sur le paiement de vos factures et vos recharges téléphoniques. Profitez d’un cashback de 5% ou plus sur vos recharges de téléphone et d’autres services.\nJumiaPay Maroc, c’est :\n- Une application gratuite tout-en-un et sans frais de service,\n- Un compte Jumia créé en deux minutes,\n- Un mode de paiement ultra-sécurisé (JumiaPay).\n\nVoici quelques-uns des nombreux services disponibles sur JumiaPay Maroc:\nRECHARGEZ VOTRE LIGNE ORANGE\nJumiaPay vous permet de recharger votre ligne téléphonique instantanément, 24h/24 et 7j/7 et en toute sécurité. Chaque fois que vous achetez une recharge téléphone avec JumiaPay, vous obtenez instantanément une remise en argent (Cashback) sur chaque transaction effectuée.\n\nPAYEZ VOS FACTURES D’EAU\nPayez ZÉRO frais de service sur toutes vos factures de services publics comme vos factures d’eau ONEP. Le montant du cashback s'ajoutera instantanément à votre compte JumiaPay !\n\nACHETEZ DES CARTES CADEAUX\nAchetez des cartes-cadeaux en ligne sur toutes vos plateformes de jeux en ligne préférées telles que tels que Xbox Live, PlayStation Network et Steam, parmi de nombreuses autres applications étonnantes parmi lesquelles choisir. Obtenez votre carte-cadeau aujourd'hui pour vous ou pour vos proches.\nLorsque vous achetez des cartes-cadeaux en ligne via JumiaPay, vous recevez également un remboursement instantané sur votre compte, que vous pourrez utiliser ultérieurement lors de tout achat futur.\n\nEt il y a encore plus de services possibles sur JumiaPay. JumiaPay est vraiment est une application \"Tout-en-Un\", où vous pouvez accéder à différents services en un seul clic. JumiaPay vous connecte à vos services préférés plus rapidement et plus facilement.\n• Acheter en ligne 🛒\n• Acheter un billet d’avion ✈️\n• Commander votre repas dans l’un de vos restaurants préférés, 🍔\n• La liste est sans fin, découvrez-la sur l’app !\n\nMode de paiement ultra sécurisé\nEn payant avec JumiaPay, vous bénéficiez du système 3DS qui garantit la protection de vos données.\nAprès votre première connexion, vous pouvez accéder facilement à l'application via votre mot de passe sécurisé. Vous recevrez également un email pour chaque transaction effectuée sur l'application afin de vous assurer que vous êtes bien à l’origine de celle-ci. De cette façon, vous pouvez être certain qu'aucune transaction non souhaitée ne pourra être effectuée.\n\nRemboursements instantanés \nVous obtenez un remboursement instantané chaque fois qu'une transaction échouée ou incomplète se produit.\n\nUne question? Une remarque?\nVisitez: https://pay.jumia.ma\nVous pouvez envoyer vos remarques et suggestions à cs.pay.ma@jumia.com",
+        "emails": [
+          "robert@broofa.com",
+          "jumia.pay@jumia.com",
+          "apps.one.ptc@jumia.com"
+        ]
+      },
+      {
+        "url": "https://www.google.co.ma/intl/en/about/products?tab=8h",
+        "keywords": "",
+        "description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+        "emails": []
+      },
+      {
+        "url": "https://accounts.google.com/servicelogin?passive=1209600&continue=https://play.google.com/store/apps/details?id%3dcom.jumia.one.android%26referrer%3dadjust_reftag%253dceko36f48tbbi%2526utm_source%253donsite%2526utm_campaign%253dng&followup=https://play.google.com/store/apps/details?id%3dcom.jumia.one.android%26referrer%3dadjust_reftag%253dceko36f48tbbi%2526utm_source%253donsite%2526utm_campaign%253dng&ec=gazatg",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://play.google.com/store",
+        "keywords": "",
+        "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+        "emails": []
+      },
+      {
+        "url": "https://play.google.com/store/apps",
+        "keywords": "",
+        "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+        "emails": []
+      },
+      {
+        "url": "https://app.adjust.com/p98ne7n?deep_link=jumiaoneapp://&campaign=jumia_mall_venturebar",
+        "keywords": "JumiaPay (formerly Jumia One), Africa Internet Group, Lifestyle, Utilities, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes",
+        "description": "‎Read reviews, compare customer ratings, see screenshots, and learn more about JumiaPay (formerly Jumia One). Download JumiaPay (formerly Jumia One) and enjoy it on your iPhone, iPad, and iPod touch.",
+        "emails": [
+          "cs.one.ng@jumia.com",
+          "jumia.one@jumia.com"
+        ]
+      },
+      {
+        "url": "https://apps.apple.com/app/id1294620379?mt=8&pt=hw2736zq37&ct=onsite#ac-gn-menustate",
+        "keywords": "JumiaPay (formerly Jumia One), Africa Internet Group, Lifestyle, Utilities, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes",
+        "description": "‎Read reviews, compare customer ratings, see screenshots, and learn more about JumiaPay (formerly Jumia One). Download JumiaPay (formerly Jumia One) and enjoy it on your iPhone, iPad, and iPod touch.",
+        "emails": []
+      },
+      {
+        "url": "https://apps.apple.com/app/id1294620379?mt=8&pt=hw2736zq37&ct=onsite#",
+        "keywords": "JumiaPay (formerly Jumia One), Africa Internet Group, Lifestyle, Utilities, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes",
+        "description": "‎Read reviews, compare customer ratings, see screenshots, and learn more about JumiaPay (formerly Jumia One). Download JumiaPay (formerly Jumia One) and enjoy it on your iPhone, iPad, and iPod touch.",
+        "emails": []
+      },
+      {
+        "url": "https://www.apple.com/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.apple.com/us/shop/goto/bag",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar&lang=fr-fr&t=1610818301462",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,101 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,089 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/",
+        "keywords": "",
+        "description": "Create an account or log in to Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/#",
+        "keywords": "",
+        "description": "Create an account or log in to Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/#",
+        "keywords": "",
+        "description": "Create an account or log in to Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/recover/initiate/?ars=facebook_login&privacy_mutation_token=eyj0exblijowlcjjcmvhdglvbl90aw1lijoxnjewode4mzi3lcjjywxsc2l0zv9pzci6mzgxmji5mdc5ntc1otq2fq%3d%3d",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/#",
+        "keywords": "",
+        "description": "Create an account or log in to Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/recover/initiate?lwv=301&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/login.php",
+        "keywords": "",
+        "description": "Log in to Facebook to start sharing and connecting with your friends, family and people you know.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/420277734679018/photos/3104284422944989/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1",
+        "keywords": "",
+        "description": "Log in to Facebook to start sharing and connecting with your friends, family and people you know.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/recover/initiate?ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?__tn__=%3c*f",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,101 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?__tn__=%3c%3c*f",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,105 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?ref=page_internal",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,094 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,102 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,096 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,094 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,096 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,105 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/posts/?ref=page_internal",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,099 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": [
+          "fatiprofsvt2020@gmail.com"
+        ]
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/posts/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,103 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/posts/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,105 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/posts/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,099 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/posts/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,099 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/photos/?ref=page_internal",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,091 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/photos/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,092 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/photos/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,092 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/photos/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,100 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/photos/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,098 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/groups/?ref=page_internal",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,092 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/groups/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,098 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/groups/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,103 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/groups/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,096 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/groups/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,096 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/community/?ref=page_internal",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,092 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/community/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,100 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/community/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,101 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/community/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,093 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pg/jumia.ma/community/?ref=page_internal#",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,105 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/",
+        "keywords": "",
+        "description": "Create an account or log in to Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/recover/initiate/?ars=facebook_login&privacy_mutation_token=eyj0exblijowlcjjcmvhdglvbl90aw1lijoxnjewode4mzkzlcjjywxsc2l0zv9pzci6mzgxmji5mdc5ntc1otq2fq%3d%3d",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/login/identify/?ctx=recover&ars=facebook_login",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/login/identify/?ctx=recover&ars=facebook_login",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pages/create/?ref_type=registration_form",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pages/create/?ref_type=registration_form#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/pages/create/?ref_type=registration_form#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/reg/?privacy_mutation_token=eyj0exblijowlcjjcmvhdglvbl90aw1lijoxnjewode4mzk1lcjjywxsc2l0zv9pzci6mzyzoty5mdq0odc4oti4fq%3d%3d",
+        "keywords": "",
+        "description": "Sign up for Facebook and find your friends. Create an account to start sharing photos and updates with people you know. It's easy to register.",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/r.php?locale=en_gb",
+        "keywords": "",
+        "description": "Sign up for Facebook and find your friends. Create an account to start sharing photos and updates with people you know. It's easy to register.",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/",
+        "keywords": "",
+        "description": "Créez un compte ou connectez-vous à Facebook. Connectez-vous avec vos amis, la famille et d’autres connaissances. Partagez des photos et des vidéos,...",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/#",
+        "keywords": "",
+        "description": "Créez un compte ou connectez-vous à Facebook. Connectez-vous avec vos amis, la famille et d’autres connaissances. Partagez des photos et des vidéos,...",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/#",
+        "keywords": "",
+        "description": "Créez un compte ou connectez-vous à Facebook. Connectez-vous avec vos amis, la famille et d’autres connaissances. Partagez des photos et des vidéos,...",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/recover/initiate/?ars=facebook_login&privacy_mutation_token=eyj0exblijowlcjjcmvhdglvbl90aw1lijoxnjewode4mzk4lcjjywxsc2l0zv9pzci6mzgxmji5mdc5ntc1otq2fq%3d%3d",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/#",
+        "keywords": "",
+        "description": "Créez un compte ou connectez-vous à Facebook. Connectez-vous avec vos amis, la famille et d’autres connaissances. Partagez des photos et des vidéos,...",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/",
+        "keywords": "",
+        "description": "يمكنك إنشاء حساب أو تسجيل الدخول إلى فيسبوك والتواصل مع الأصدقاء وأفراد العائلة والأشخاص الآخرين الذين تعرفهم. استمتع بمشاركة الصور ومقاطع الفيديو وإرسال...",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/#",
+        "keywords": "",
+        "description": "يمكنك إنشاء حساب أو تسجيل الدخول إلى فيسبوك والتواصل مع الأصدقاء وأفراد العائلة والأشخاص الآخرين الذين تعرفهم. استمتع بمشاركة الصور ومقاطع الفيديو وإرسال...",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/#",
+        "keywords": "",
+        "description": "يمكنك إنشاء حساب أو تسجيل الدخول إلى فيسبوك والتواصل مع الأصدقاء وأفراد العائلة والأشخاص الآخرين الذين تعرفهم. استمتع بمشاركة الصور ومقاطع الفيديو وإرسال...",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/recover/initiate/?ars=facebook_login&privacy_mutation_token=eyj0exblijowlcjjcmvhdglvbl90aw1lijoxnjewode4mzk5lcjjywxsc2l0zv9pzci6mzgxmji5mdc5ntc1otq2fq%3d%3d",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/#",
+        "keywords": "",
+        "description": "يمكنك إنشاء حساب أو تسجيل الدخول إلى فيسبوك والتواصل مع الأصدقاء وأفراد العائلة والأشخاص الآخرين الذين تعرفهم. استمتع بمشاركة الصور ومقاطع الفيديو وإرسال...",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/recover/initiate?lwv=301&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://fr-fr.facebook.com/login.php",
+        "keywords": "",
+        "description": "Connectez-vous à Facebook pour commencer à partager et communiquer avec vos amis, votre famille et les personnes que vous connaissez.",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/recover/initiate?lwv=301&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://ar-ar.facebook.com/login.php",
+        "keywords": "",
+        "description": "قم بتسجيل الدخول إلى فيسبوك لبدء المشاركة والتواصل مع أصدقائك وعائلتك والأشخاص الذين تعرفهم.",
+        "emails": []
+      },
+      {
+        "url": "https://tz-ma.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://tz-ma.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://tz-ma.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://tz-ma.facebook.com/",
+        "keywords": "",
+        "description": "ⵙⴽⵔ ⴰⵎⵉⴹⴰⵏ ⵏⵉⵖ ⴽⵛⵎ ⵙ ⴼⵉⵢⵙⴱⵓⴽ. ⵏⵢⴰⵍⴽⴰⵎ ⴷ ⵉⵎⴷⴷⵓⴽⴽⴰⵍ ⵏⵏⴽ, ⴷ ⵜⴰⵡⵊⴰ ⵏⵏⴽ, ⴷ ⵎⵉⴷⴷⵏ ⵢⴰⴹⵏⵉⵏ ⵍⵍⵉ ⵜⵙⵙⵏⴷ. ⵛⵔⴽ ⵜⵉⵡⵍⴰⴼⵉⵏ ⴷ ⴰⴼⵉⴷⵢⵓⵜⵏ, ⴷ ⴰⵣⵏ ⵜⵉⵎⵢⴰⵣⴰⵏⵉⵏ, ⴷ ⴰⵎⵥ ⵉⵏⵖⵎⵉⵙⵏ.",
+        "emails": []
+      },
+      {
+        "url": "https://tz-ma.facebook.com/recover/initiate?lwv=301&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://es-es.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://es-es.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://es-es.facebook.com/login/identify/?ctx=recover&ars=royal_blue_bar#",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://es-es.facebook.com/",
+        "keywords": "",
+        "description": "Crea una cuenta o inicia sesión en Facebook. Conecta con amigos, familiares y otras personas que conozcas. Comparte fotos y vídeos, envía mensajes y...",
+        "emails": []
+      },
+      {
+        "url": "https://es-es.facebook.com/recover/initiate?lwv=301&ars=royal_blue_bar",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      }
+    ],
+    "emails": [
+      "service.food@jumia.ma",
+      "cs.pay.ma@jumia.com",
+      "robert@broofa.com",
+      "jumia.pay@jumia.com",
+      "apps.one.ptc@jumia.com",
+      "cs.one.ng@jumia.com",
+      "jumia.one@jumia.com",
+      "fatiprofsvt2020@gmail.com"
+    ],
+    "timeTaken": "183.41s"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "email-crawler",
+  "version": "1.0.0",
+  "description": "An email crawler from search engines using puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run compile && cross-env NODE_PATH=build node build",
+    "compile": "rimraf build && tsc && npm run postbuild",
+    "postbuild": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "@types/is-url": "^1.2.28",
+    "@types/ms": "^0.7.31",
+    "@types/puppeteer": "^5.4.2",
+    "cross-env": "^7.0.3",
+    "is-url": "^1.2.4",
+    "ms": "^2.1.2",
+    "parse-domain": "^3.0.3",
+    "puppeteer": "^5.5.0"
+  }
+}

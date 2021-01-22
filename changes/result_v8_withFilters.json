@@ -1,0 +1,461 @@
+[
+  {
+    "querie": "jumia",
+    "urls": [
+      "https://www.jumia.ma/",
+      "https://www.facebook.com/jumia.ma/"
+    ],
+    "metas": [
+      {
+        "url": "https://www.jumia.ma/",
+        "keywords": "",
+        "description": "Boutique N°1 d'achat et vente en ligne au Maroc ✔ TVs, smartphones, électroménager, mode, jouets, sport, jeux vidéos, déco et bien plus ! ✔ Toutes les marques : Huawei, Samsung, LG, Apple, Nike... ✈ Livraison rapide partout au Maroc : Casablanca, Rabat, Tanger... ✔ Paiement à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "Jumia Food, Jumiafood, livraison domicile, commander repas, commander pizza, commander sushi, livraison Maroc, commander repas en ligne",
+        "description": "Faites-vous livrer vos plats et produits Supermarché en provenance des meilleurs restaurants et boutiques près de chez vous: Carrefour Market, Sushi, Pizza... ✔ Livraison à domicile à Casablanca, Tanger, Rabat, Marrakech, Agadir... ✔ Téléchargez l'application Jumia Food Maroc ou appelez le 05 22 04 18 18",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/",
+        "keywords": "Jumia Food, Jumiafood, livraison domicile, commander repas, commander pizza, commander sushi, livraison Maroc, commander repas en ligne",
+        "description": "Faites-vous livrer vos plats et produits Supermarché en provenance des meilleurs restaurants et boutiques près de chez vous: Carrefour Market, Sushi, Pizza... ✔ Livraison à domicile à Casablanca, Tanger, Rabat, Marrakech, Agadir... ✔ Téléchargez l'application Jumia Food Maroc ou appelez le 05 22 04 18 18",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/prime",
+        "keywords": "foodpanda, food",
+        "description": "The best vendors ever are only in one website.",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne vos plats et boissons préférés à l'un des 387 meilleurs restaurants de  à proximité de chez vous ✔ Commandez sur le 05 22 04 19 19 ✔ Livraison à domicile à  ✔ Restaurants proches de moi  ✔ Payez à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/contents/contact.htm",
+        "keywords": "foodpanda, food",
+        "description": "Pour passer commande sur Jumia Food, contactez-nous sur 05 22 04 19 19. Trouvez aussi les contacts Jumia Food du service client ou pour intégrer notre réseau de restaurants.",
+        "emails": [
+          "service.food@jumia.ma"
+        ]
+      },
+      {
+        "url": "https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar&lang=fr-fr&t=1610818632727",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/beaute-hygiene-sante/",
+        "keywords": "",
+        "description": "اعتنوا بنفسكم مع منتجات الجمال، النظافة و الصحة على موقع جوميا المغرب | إليكم كل ما تحتاجون من مكياج، عطور، العناية بالجسم و الوجه لأفضل العلامات التجارية مثل ديور، لاروش بوزيه، نيفيا و ميكسا \n",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/fashion-mode/",
+        "keywords": "",
+        "description": "اشتري الآن ازياء في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من ازياء بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/mlp-accessoires-mode/",
+        "keywords": "",
+        "description": "اشتري منتجك Accessoires Mode عبر الإنترنت بأفضل سعر على جوميا ✓الدفع نقدا عند التسليم أو بالبطاقة ✓التسليم في كل مكان في المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-commandez-par-telephone/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/beaute-hygiene-sante/",
+        "keywords": "",
+        "description": "Découvrez nos produits cosmétiques et soins sur Jumia Maroc ✔ Parapharmacie, makeup, Parfum et beauté au meilleur prix ✔Payez à la livraison ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fashion-mode/",
+        "keywords": "",
+        "description": "Commandez les vêtements, chaussures et Accessoires pour homme, femme et enfant à prix pas cher sur Jumia | Trouvez le meilleur de la mode pour hommes et femmes des meilleures marques comme Adidas, Jennyfer, Defacto au meilleur prix au Maroc | Livraison partout au Maroc",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/maison-cuisine-jardin/",
+        "keywords": "",
+        "description": "Envie d'une cuisine moderne, d'un salon marocain ou une déco de maison chic ? Découvrez notre catalogue de meubles, linge de lit et décorations à prix bas ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/telephone-tablette/",
+        "keywords": "",
+        "description": "Offrez-vous un smartphone ou tablette pas cher sur Jumia Maroc | Tablette Samsung, smartphone Huawei, iPhone, Lumia, Infinix, Sony Xperia ou Accent au meilleur prix",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/market-place/",
+        "keywords": "Vendre en ligne ",
+        "description": "Créez votre boutique en ligne d'e-commerce grâce à Jumia et gagnez de l'argent. Découvrez comment vendre sur internet au Maroc, Jumia s'occupe du drop shipping ! ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/sp-market-place/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-market-place/",
+        "keywords": "Vendre en ligne ",
+        "description": "Créez votre boutique en ligne d'e-commerce grâce à Jumia et gagnez de l'argent. Découvrez comment vendre sur internet au Maroc, Jumia s'occupe du drop shipping ! ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/maison-cuisine-jardin/",
+        "keywords": "",
+        "description": "احصلوا على الأثاث والمفروشات والأواني والأجهزة المنزلية عند جوميا ماروك★★★اشتروا Tefal أو moulinex أو mobilia بأفضل الأسعار★★★الدفع عند التسليم \n",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/telephone-tablette/",
+        "keywords": "",
+        "description": "اشتري الآن موبايلات وتابلت في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من موبايلات وتابلت بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/mlp-electromenager/",
+        "keywords": "",
+        "description": "اشتري منتجك Électroménager عبر الإنترنت بأفضل سعر على جوميا ✓الدفع نقدا عند التسليم أو بالبطاقة ✓التسليم في كل مكان في المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/sp-market-place/",
+        "keywords": "Vendre en ligne ",
+        "description": "Créez votre boutique en ligne d'e-commerce grâce à Jumia et gagnez de l'argent. Découvrez comment vendre sur internet au Maroc, Jumia s'occupe du drop shipping ! ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ordinateurs-accessoires-informatique/",
+        "keywords": "",
+        "description": "Achetez un pc portable ou imprimante sur Jumia Maroc | Pc Hp, Dell, Lenovo, Macbook ou Asus au meilleur prix ✔Payez à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/epicerie/",
+        "keywords": "",
+        "description": "Préparez vos listes de course en ligne et Jumia se chargera de vous livrer partout où vous voulez. Découvrez une liste infinie de produits de supermarché & épicerie au même prix que les grandes surfaces.",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/sports-loisirs/",
+        "keywords": "",
+        "description": "Achetez en ligne votre article Sports & Loisirs pas cher sur Jumia.ma ✔ Meilleur prix au Maroc ✔ Paiement à la livraison ✈ Commandez maintenant !",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/electronique/",
+        "keywords": "",
+        "description": "Achetez en ligne votre article TV & Electronique pas cher sur Jumia.ma ✔ Meilleur prix au Maroc ✔ Paiement à la livraison ✈ Commandez maintenant !",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/mlp-electromenager/",
+        "keywords": "",
+        "description": "Achetez en ligne votre Électroménager au meilleur prix sur Jumia.ma ✓ Paiement à la livraison ou par carte ✓ Livraison partout au Maroc",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/mlp-electromenager/",
+        "keywords": "",
+        "description": "اشتري منتجك Électroménager عبر الإنترنت بأفضل سعر على جوميا ✓الدفع نقدا عند التسليم أو بالبطاقة ✓التسليم في كل مكان في المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/bebe-puericulture/",
+        "keywords": "",
+        "description": "اشتري الآن منتجات العناية بالأطفال في المغرب عبر الإنترنت. اكتشف مجموعة كبيرة من منتجات العناية بالأطفال بأفضل الأثمنة على جوميا المغرب. الدفع عند التسليم - التسليم في جميع أنحاء المغرب",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/customer/account/login/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/customer/account/create/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ordinateurs-accessoires-informatique/",
+        "keywords": "",
+        "description": "تمتعوا بمجموعة من أجهزة الكمبيوتر المحمولة ومعدات الحاسوب على جوميا ماروك★★★ اشتروا hp laserjet ،Lenovo ،Asus Sony Vaio بأفضل الأسعار★★★ الضمان سنة 1 ",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/market-place/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/fr/ordinateurs-accessoires-informatique/",
+        "keywords": "",
+        "description": "Achetez un pc portable ou imprimante sur Jumia Maroc | Pc Hp, Dell, Lenovo, Macbook ou Asus au meilleur prix ✔Payez à la livraison",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/",
+        "keywords": "",
+        "description": "إبق في المنزل، سنقوم بتوصيل كل شيء ! قم بشراء جميع المنتجات الأساسية عبر الإنترنت ✓ هواتف , أجهزة التلفاز , بقالة, الصحة و النظافة، فيتامينات  و غيرها ✓ الدفع عند التسليم  ✓ توصيل سريع في جميع أنحاء المغرب\n",
+        "emails": []
+      },
+      {
+        "url": "https://www.jumia.ma/ar/customer/account/login/",
+        "keywords": "",
+        "description": "",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "Jumia Food, Jumiafood, livraison domicile, commander repas, commander pizza, commander sushi, livraison Maroc, commander repas en ligne",
+        "description": "Faites-vous livrer vos plats et produits Supermarché en provenance des meilleurs restaurants et boutiques près de chez vous: Carrefour Market, Sushi, Pizza... ✔ Livraison à domicile à Casablanca, Tanger, Rabat, Marrakech, Agadir... ✔ Téléchargez l'application Jumia Food Maroc ou appelez le 05 22 04 18 18",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/login",
+        "keywords": "foodpanda, food",
+        "description": "Se connecter",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/customer/register",
+        "keywords": "foodpanda, food",
+        "description": "Se connecter",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/forgot-your-password",
+        "keywords": "foodpanda, food",
+        "description": "The best vendors ever are only in one website.",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne auprès de 315 restaurants près de chez vous à Casablanca ✔ Menu, livraison à domicile, au bureau ✔ Sushis, pizza, & bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/rabat",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne chez 77 restaurants de Rabat ✔ Menu, livraison à domicile, au bureau avec Jumia Food ✔ Sushis, pizza, burgers et bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/contents/terms-and-conditions.htm",
+        "keywords": "foodpanda, food",
+        "description": "Découvrez en détail nos Conditions Générales de Vente pour obtenir le meilleur de nos services. Chez Jumia Food nous aimons vous satisfaire !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/tanger",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne chez 13 restaurants de Tanger ✔ Menu, livraison à domicile, au bureau avec Jumia Food ✔ Sushis, pizza, burgers et bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/marrakech",
+        "keywords": "foodpanda, food",
+        "description": "Commandez en ligne chez 39 restaurants de Marrakech ✔ Menu, livraison à domicile, au bureau avec jumia food ✔ Sushis, pizza et bien plus !",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca/area/bourgogne",
+        "keywords": "foodpanda, food",
+        "description": "208 restaurants à Bourgogne livrés chez vous ✔ Commande en ligne & livraison à domicile à Casablanca ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca/area/gauthier",
+        "keywords": "foodpanda, food",
+        "description": "210 restaurants à Gauthier livrés chez vous ✔ Commande en ligne & livraison à domicile à Casablanca ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/contents/privacy.htm",
+        "keywords": "foodpanda, food",
+        "description": "En savoir plus sur la façon dont Jumia Food accompagne ses clients et ses partenaires. Sécurité, Service Client…",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/rabat/area/riad-haut",
+        "keywords": "foodpanda, food",
+        "description": "53 restaurants vous livrent à Hay Riad Haut  ✔ Commande de menus et repas en ligne & livraison à domicile à Rabat ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca/area/maarif",
+        "keywords": "foodpanda, food",
+        "description": "220 restaurants à Maârif livrés chez vous ✔ Commande en ligne & livraison à domicile à Casablanca ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/marrakech/area/gueliz",
+        "keywords": "foodpanda, food",
+        "description": "36 restaurants vous livrent à Guéliz  ✔ Commande de menus en ligne & livraison à domicile à Marrakech ✔ Appli Jumia Food Maroc gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurants/city/casablanca/area/mers-sultan",
+        "keywords": "foodpanda, food",
+        "description": "203 restaurants à Mers Sultan livrés chez vous ✔ Commande en ligne & livraison à domicile à Mers Sultan, Casablanca ✔ Application Jumia Food Maroc Gratuite",
+        "emails": []
+      },
+      {
+        "url": "https://food.jumia.ma/restaurant/ck3jb?source=onsite&medium=homepage&campaign=carrefourhp",
+        "keywords": "foodpanda, food",
+        "description": "Page Not Found! (Error 404)",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar",
+        "keywords": "",
+        "description": "Rechargez votre téléphone, payez vos factures, coupons pour streaming et gaming et bien plus encore. Tout le paiement mobile en une seule application ! Gagnez du cashback ou des cadeaux lorsque vous rechargez sur JumiaPay.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar&lang=fr-fr&t=1610818687782",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/?utm_source=jumia&utm_medium=mall&utm_campaign=venturebar&lang=fr-fr&t=1610818687802",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/services/recharge/orange-recharge",
+        "keywords": "",
+        "description": "Utilisez JumiaPay pour recharger votre téléphone mobile Orange Maroc en toute sécurité 24H/24 et 7j/7",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma/services/recharge/orange-recharge",
+        "keywords": "",
+        "description": "Utilisez JumiaPay pour recharger votre téléphone mobile Orange Maroc en toute sécurité 24H/24 et 7j/7",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma/services/recharge/orange-recharge",
+        "keywords": "",
+        "description": "Utilisez JumiaPay pour recharger votre téléphone mobile Orange Maroc en toute sécurité 24H/24 et 7j/7",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/services/recharge/orange-recharge&lang=fr-fr&t=1610818691249",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/services/recharge/orange-recharge&lang=fr-fr&t=1610818691270",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/services/recharge/maroc-telecom",
+        "keywords": "",
+        "description": "Utilisez JumiaPay pour recharger votre téléphone mobile Maroc Telecom en toute sécurité. Profitez de remboursements incroyables avec JumiaPay, à chaque fois que vous effectuez vos recharges mobiles en ligne.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma/services/recharge/maroc-telecom",
+        "keywords": "",
+        "description": "Utilisez JumiaPay pour recharger votre téléphone mobile Maroc Telecom en toute sécurité. Profitez de remboursements incroyables avec JumiaPay, à chaque fois que vous effectuez vos recharges mobiles en ligne.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/ar-ma/services/recharge/maroc-telecom",
+        "keywords": "",
+        "description": "Utilisez JumiaPay pour recharger votre téléphone mobile Maroc Telecom en toute sécurité. Profitez de remboursements incroyables avec JumiaPay, à chaque fois que vous effectuez vos recharges mobiles en ligne.",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/services/recharge/maroc-telecom&lang=fr-fr&t=1610818696154",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://pay.jumia.ma/api/v1/signin?redirect_url=https://pay.jumia.ma/services/recharge/maroc-telecom&lang=fr-fr&t=1610818696175",
+        "keywords": "",
+        "description": "Jumia Central Authentication",
+        "emails": []
+      },
+      {
+        "url": "https://www.facebook.com/jumia.ma/",
+        "keywords": "",
+        "description": "Jumia, Casablanca, Morocco. 18,659,110 likes · 32,735 talking about this. Faites vos achats sur www.jumia.ma, premier site de e-commerce au Maroc....",
+        "emails": []
+      }
+    ],
+    "emails": [
+      "service.food@jumia.ma"
+    ],
+    "timeTaken": "83.98s"
+  }
+]

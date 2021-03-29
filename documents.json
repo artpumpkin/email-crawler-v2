@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "keywords": "Mollit officia ipsum dolore labore magna",
+    "description": "Aliquip cupidatat anim est voluptate sint non culpa id qui. Commodo velit non incididunt aliqua nisi fugiat. Proident mollit occaecat incididunt ex sunt ad aliquip. Est et quis tempor eu aliqua pariatur qui commodo fugiat irure ex. Tempor deserunt eiusmod amet ad occaecat enim non enim laboris. Officia sint pariatur proident Lorem adipisicing culpa pariatur aliqua adipisicing dolore voluptate aliqua Lorem mollit.",
+    "root_url": "https://example.com",
+    "url": "https://example.com/test/1",
+    "email": "name1@example.com"
+  },
+  {
+    "id": 2,
+    "keywords": "Consectetur excepteur dolor sunt aute",
+    "description": "Minim id enim elit pariatur sunt officia aliqua qui id veniam aliqua irure occaecat reprehenderit. Nostrud eiusmod consequat excepteur sint reprehenderit consequat. Qui reprehenderit exercitation excepteur reprehenderit veniam ea enim ipsum velit quis laborum Lorem ad.",
+    "root_url": "https://booking.com",
+    "url": "https://booking.com/test/2",
+    "email": "name2@booking.com"
+  },
+  {
+    "id": 3,
+    "keywords": "Nulla sint irure commodo sint do excepteur",
+    "description": "Nulla sunt minim id in in nulla id ex sint dolor voluptate officia pariatur aute. Reprehenderit officia ea qui culpa dolore quis culpa deserunt sit exercitation culpa voluptate. Voluptate amet irure et sit proident eu qui eu eiusmod cupidatat. Sunt amet enim irure veniam in et qui adipisicing et est. Occaecat Lorem mollit veniam fugiat. Pariatur esse magna consequat qui duis ut pariatur ex.",
+    "root_url": "https://cryptofection.com",
+    "url": "https://cryptofection.com/coin/btc",
+    "email": "name@cryptofection.com"
+  }
+]
